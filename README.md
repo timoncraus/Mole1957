@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fb3fbfc6-5911-46b9-873f-ac2834fb5847)# Mole1957
+# Mole1957
 
 «Кротик 1957» представляет собой проект по созданию компьютерной игры в жанре выживание. 
 
